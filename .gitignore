@@ -28,7 +28,11 @@ HelloWorld
 # Android Studio
 *.iml
 .idea
+
 # Gradle files
 .gradle/
 build/
 /*/build/
+
+# Metadata files
+.metadata/
